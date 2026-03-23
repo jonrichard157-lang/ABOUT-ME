@@ -1,48 +1,22 @@
-# ABOUT-ME
+
 # 👋 Hi, I'm João Ricardo
 
-🎓 Student at BYU-Pathway (Software Development)  
-🌎 Based in São Paulo, Brazil  
-💻 Learning Web Development and Programming  
+🎓 IT Student from Brazil  
+📍 São Paulo  
+💻 Focused on Web Development  
 
----
-
-## 🚀 About Me
-
-I'm currently studying software development and building projects using HTML, CSS, and Python.  
-I'm focused on improving my coding skills and creating real-world projects.
-
----
-
-## 🛠 Skills
-
-- HTML5
-- CSS3
-- Python (basic)
+## 🚀 Skills
+- HTML & CSS
+- Python
 - Git & GitHub
 
----
-
-## 📚 Currently Learning
-
-- JavaScript
-- Responsive Design
-- Clean Code Practices
-
----
-
 ## 📂 Projects
+- Personal Website (HTML/CSS)
+- Python Exercises (CSE111)
 
-- Rafting Website 🌊
-- Personal Homepage 🏠
-- Course Assignments (WDD130, CSE111)
-
----
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrichard157-lang&show_icons=true)
 
 ## 📫 Contact
-
-- GitHub: https://github.com/jonrichard157-lang
-
----
-
-⭐ Always learning and improving!
+- Email: jonrichard157@gmail.com
+- linkedin: linkedin.com/in/joão15
